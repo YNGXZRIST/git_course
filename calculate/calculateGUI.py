@@ -19,7 +19,7 @@ class Main(Frame):
             "(", "0", ")", "X^2"
         ]
 
-        x = 10
+        x = 100
         y = 140
         for bt in btns:
             com = lambda x=bt: self.logicalc(x)
